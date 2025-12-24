@@ -1,9 +1,4 @@
-# Korean BJ CCTV Service - Optimized Build
-
-## 🎉 What is this?
-
-This is the optimized build of Korean BJ CCTV Service, containing all necessary files 
-and directory structure for direct distribution without additional dependencies.
+# Korean BJ CCTV Service
 
 ## 🚀 Quick Start
 
